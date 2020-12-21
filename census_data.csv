@@ -1,0 +1,521 @@
+age,sex,province,education,total_count,cell
+25 to 34,Male,Newfoundland and Labrador,no degree,2615,Male 25 to 34 no degree
+25 to 34,Male,Newfoundland and Labrador,high school,6440,Male 25 to 34 high school
+25 to 34,Male,Newfoundland and Labrador,"technical,community college",5420,"Male 25 to 34 technical,community college"
+25 to 34,Male,Newfoundland and Labrador,"technical,community college",7030,"Male 25 to 34 technical,community college"
+25 to 34,Male,Newfoundland and Labrador,university,645,Male 25 to 34 university
+25 to 34,Female,Newfoundland and Labrador,no degree,1970,Female 25 to 34 no degree
+25 to 34,Female,Newfoundland and Labrador,high school,6345,Female 25 to 34 high school
+25 to 34,Female,Newfoundland and Labrador,"technical,community college",1720,"Female 25 to 34 technical,community college"
+25 to 34,Female,Newfoundland and Labrador,"technical,community college",8910,"Female 25 to 34 technical,community college"
+25 to 34,Female,Newfoundland and Labrador,university,620,Female 25 to 34 university
+35 to 44,Male,Newfoundland and Labrador,no degree,3895,Male 35 to 44 no degree
+35 to 44,Male,Newfoundland and Labrador,high school,6425,Male 35 to 44 high school
+35 to 44,Male,Newfoundland and Labrador,"technical,community college",5600,"Male 35 to 44 technical,community college"
+35 to 44,Male,Newfoundland and Labrador,"technical,community college",8905,"Male 35 to 44 technical,community college"
+35 to 44,Male,Newfoundland and Labrador,university,670,Male 35 to 44 university
+35 to 44,Female,Newfoundland and Labrador,no degree,2715,Female 35 to 44 no degree
+35 to 44,Female,Newfoundland and Labrador,high school,6830,Female 35 to 44 high school
+35 to 44,Female,Newfoundland and Labrador,"technical,community college",1810,"Female 35 to 44 technical,community college"
+35 to 44,Female,Newfoundland and Labrador,"technical,community college",12360,"Female 35 to 44 technical,community college"
+35 to 44,Female,Newfoundland and Labrador,university,820,Female 35 to 44 university
+45 to 54,Male,Newfoundland and Labrador,no degree,7610,Male 45 to 54 no degree
+45 to 54,Male,Newfoundland and Labrador,high school,7990,Male 45 to 54 high school
+45 to 54,Male,Newfoundland and Labrador,"technical,community college",7490,"Male 45 to 54 technical,community college"
+45 to 54,Male,Newfoundland and Labrador,"technical,community college",10075,"Male 45 to 54 technical,community college"
+45 to 54,Male,Newfoundland and Labrador,university,780,Male 45 to 54 university
+45 to 54,Female,Newfoundland and Labrador,no degree,6335,Female 45 to 54 no degree
+45 to 54,Female,Newfoundland and Labrador,high school,9535,Female 45 to 54 high school
+45 to 54,Female,Newfoundland and Labrador,"technical,community college",2980,"Female 45 to 54 technical,community college"
+45 to 54,Female,Newfoundland and Labrador,"technical,community college",14655,"Female 45 to 54 technical,community college"
+45 to 54,Female,Newfoundland and Labrador,university,1065,Female 45 to 54 university
+55 to 64,Male,Newfoundland and Labrador,no degree,9845,Male 55 to 64 no degree
+55 to 64,Male,Newfoundland and Labrador,high school,9445,Male 55 to 64 high school
+55 to 64,Male,Newfoundland and Labrador,"technical,community college",7965,"Male 55 to 64 technical,community college"
+55 to 64,Male,Newfoundland and Labrador,"technical,community college",8170,"Male 55 to 64 technical,community college"
+55 to 64,Male,Newfoundland and Labrador,university,875,Male 55 to 64 university
+55 to 64,Female,Newfoundland and Labrador,no degree,10175,Female 55 to 64 no degree
+55 to 64,Female,Newfoundland and Labrador,high school,12195,Female 55 to 64 high school
+55 to 64,Female,Newfoundland and Labrador,"technical,community college",3095,"Female 55 to 64 technical,community college"
+55 to 64,Female,Newfoundland and Labrador,"technical,community college",11855,"Female 55 to 64 technical,community college"
+55 to 64,Female,Newfoundland and Labrador,university,1205,Female 55 to 64 university
+25 to 34,Male,Prince Edward Island,no degree,590,Male 25 to 34 no degree
+25 to 34,Male,Prince Edward Island,high school,2450,Male 25 to 34 high school
+25 to 34,Male,Prince Edward Island,"technical,community college",600,"Male 25 to 34 technical,community college"
+25 to 34,Male,Prince Edward Island,"technical,community college",1685,"Male 25 to 34 technical,community college"
+25 to 34,Male,Prince Edward Island,university,105,Male 25 to 34 university
+25 to 34,Female,Prince Edward Island,no degree,405,Female 25 to 34 no degree
+25 to 34,Female,Prince Edward Island,high school,1575,Female 25 to 34 high school
+25 to 34,Female,Prince Edward Island,"technical,community college",245,"Female 25 to 34 technical,community college"
+25 to 34,Female,Prince Edward Island,"technical,community college",2320,"Female 25 to 34 technical,community college"
+25 to 34,Female,Prince Edward Island,university,155,Female 25 to 34 university
+35 to 44,Male,Prince Edward Island,no degree,830,Male 35 to 44 no degree
+35 to 44,Male,Prince Edward Island,high school,2070,Male 35 to 44 high school
+35 to 44,Male,Prince Edward Island,"technical,community college",775,"Male 35 to 44 technical,community college"
+35 to 44,Male,Prince Edward Island,"technical,community college",2405,"Male 35 to 44 technical,community college"
+35 to 44,Male,Prince Edward Island,university,215,Male 35 to 44 university
+35 to 44,Female,Prince Edward Island,no degree,445,Female 35 to 44 no degree
+35 to 44,Female,Prince Edward Island,high school,1820,Female 35 to 44 high school
+35 to 44,Female,Prince Edward Island,"technical,community college",380,"Female 35 to 44 technical,community college"
+35 to 44,Female,Prince Edward Island,"technical,community college",3100,"Female 35 to 44 technical,community college"
+35 to 44,Female,Prince Edward Island,university,210,Female 35 to 44 university
+45 to 54,Male,Prince Edward Island,no degree,1810,Male 45 to 54 no degree
+45 to 54,Male,Prince Edward Island,high school,2565,Male 45 to 54 high school
+45 to 54,Male,Prince Edward Island,"technical,community college",1335,"Male 45 to 54 technical,community college"
+45 to 54,Male,Prince Edward Island,"technical,community college",2280,"Male 45 to 54 technical,community college"
+45 to 54,Male,Prince Edward Island,university,175,Male 45 to 54 university
+45 to 54,Female,Prince Edward Island,no degree,895,Female 45 to 54 no degree
+45 to 54,Female,Prince Edward Island,high school,2485,Female 45 to 54 high school
+45 to 54,Female,Prince Edward Island,"technical,community college",525,"Female 45 to 54 technical,community college"
+45 to 54,Female,Prince Edward Island,"technical,community college",3730,"Female 45 to 54 technical,community college"
+45 to 54,Female,Prince Edward Island,university,345,Female 45 to 54 university
+55 to 64,Male,Prince Edward Island,no degree,2315,Male 55 to 64 no degree
+55 to 64,Male,Prince Edward Island,high school,2650,Male 55 to 64 high school
+55 to 64,Male,Prince Edward Island,"technical,community college",1735,"Male 55 to 64 technical,community college"
+55 to 64,Male,Prince Edward Island,"technical,community college",1865,"Male 55 to 64 technical,community college"
+55 to 64,Male,Prince Edward Island,university,225,Male 55 to 64 university
+55 to 64,Female,Prince Edward Island,no degree,1655,Female 55 to 64 no degree
+55 to 64,Female,Prince Edward Island,high school,3055,Female 55 to 64 high school
+55 to 64,Female,Prince Edward Island,"technical,community college",660,"Female 55 to 64 technical,community college"
+55 to 64,Female,Prince Edward Island,"technical,community college",3590,"Female 55 to 64 technical,community college"
+55 to 64,Female,Prince Edward Island,university,430,Female 55 to 64 university
+25 to 34,Male,Nova Scotia,no degree,4845,Male 25 to 34 no degree
+25 to 34,Male,Nova Scotia,high school,14595,Male 25 to 34 high school
+25 to 34,Male,Nova Scotia,"technical,community college",5850,"Male 25 to 34 technical,community college"
+25 to 34,Male,Nova Scotia,"technical,community college",11285,"Male 25 to 34 technical,community college"
+25 to 34,Male,Nova Scotia,university,750,Male 25 to 34 university
+25 to 34,Female,Nova Scotia,no degree,2885,Female 25 to 34 no degree
+25 to 34,Female,Nova Scotia,high school,11125,Female 25 to 34 high school
+25 to 34,Female,Nova Scotia,"technical,community college",2360,"Female 25 to 34 technical,community college"
+25 to 34,Female,Nova Scotia,"technical,community college",14705,"Female 25 to 34 technical,community college"
+25 to 34,Female,Nova Scotia,university,1025,Female 25 to 34 university
+35 to 44,Male,Nova Scotia,no degree,5420,Male 35 to 44 no degree
+35 to 44,Male,Nova Scotia,high school,12850,Male 35 to 44 high school
+35 to 44,Male,Nova Scotia,"technical,community college",6675,"Male 35 to 44 technical,community college"
+35 to 44,Male,Nova Scotia,"technical,community college",12680,"Male 35 to 44 technical,community college"
+35 to 44,Male,Nova Scotia,university,840,Male 35 to 44 university
+35 to 44,Female,Nova Scotia,no degree,3420,Female 35 to 44 no degree
+35 to 44,Female,Nova Scotia,high school,10905,Female 35 to 44 high school
+35 to 44,Female,Nova Scotia,"technical,community college",2925,"Female 35 to 44 technical,community college"
+35 to 44,Female,Nova Scotia,"technical,community college",17840,"Female 35 to 44 technical,community college"
+35 to 44,Female,Nova Scotia,university,1315,Female 35 to 44 university
+45 to 54,Male,Nova Scotia,no degree,10545,Male 45 to 54 no degree
+45 to 54,Male,Nova Scotia,high school,14425,Male 45 to 54 high school
+45 to 54,Male,Nova Scotia,"technical,community college",11400,"Male 45 to 54 technical,community college"
+45 to 54,Male,Nova Scotia,"technical,community college",14785,"Male 45 to 54 technical,community college"
+45 to 54,Male,Nova Scotia,university,1300,Male 45 to 54 university
+45 to 54,Female,Nova Scotia,no degree,7235,Female 45 to 54 no degree
+45 to 54,Female,Nova Scotia,high school,16305,Female 45 to 54 high school
+45 to 54,Female,Nova Scotia,"technical,community college",4865,"Female 45 to 54 technical,community college"
+45 to 54,Female,Nova Scotia,"technical,community college",22945,"Female 45 to 54 technical,community college"
+45 to 54,Female,Nova Scotia,university,2235,Female 45 to 54 university
+55 to 64,Male,Nova Scotia,no degree,14015,Male 55 to 64 no degree
+55 to 64,Male,Nova Scotia,high school,15730,Male 55 to 64 high school
+55 to 64,Male,Nova Scotia,"technical,community college",13330,"Male 55 to 64 technical,community college"
+55 to 64,Male,Nova Scotia,"technical,community college",13140,"Male 55 to 64 technical,community college"
+55 to 64,Male,Nova Scotia,university,1435,Male 55 to 64 university
+55 to 64,Female,Nova Scotia,no degree,11925,Female 55 to 64 no degree
+55 to 64,Female,Nova Scotia,high school,20345,Female 55 to 64 high school
+55 to 64,Female,Nova Scotia,"technical,community college",4970,"Female 55 to 64 technical,community college"
+55 to 64,Female,Nova Scotia,"technical,community college",20630,"Female 55 to 64 technical,community college"
+55 to 64,Female,Nova Scotia,university,2700,Female 55 to 64 university
+25 to 34,Male,New Brunswick,no degree,3895,Male 25 to 34 no degree
+25 to 34,Male,New Brunswick,high school,12840,Male 25 to 34 high school
+25 to 34,Male,New Brunswick,"technical,community college",4130,"Male 25 to 34 technical,community college"
+25 to 34,Male,New Brunswick,"technical,community college",9960,"Male 25 to 34 technical,community college"
+25 to 34,Male,New Brunswick,university,395,Male 25 to 34 university
+25 to 34,Female,New Brunswick,no degree,2430,Female 25 to 34 no degree
+25 to 34,Female,New Brunswick,high school,9180,Female 25 to 34 high school
+25 to 34,Female,New Brunswick,"technical,community college",2020,"Female 25 to 34 technical,community college"
+25 to 34,Female,New Brunswick,"technical,community college",12840,"Female 25 to 34 technical,community college"
+25 to 34,Female,New Brunswick,university,575,Female 25 to 34 university
+35 to 44,Male,New Brunswick,no degree,4990,Male 35 to 44 no degree
+35 to 44,Male,New Brunswick,high school,12890,Male 35 to 44 high school
+35 to 44,Male,New Brunswick,"technical,community college",5090,"Male 35 to 44 technical,community college"
+35 to 44,Male,New Brunswick,"technical,community college",12335,"Male 35 to 44 technical,community college"
+35 to 44,Male,New Brunswick,university,650,Male 35 to 44 university
+35 to 44,Female,New Brunswick,no degree,2800,Female 35 to 44 no degree
+35 to 44,Female,New Brunswick,high school,10855,Female 35 to 44 high school
+35 to 44,Female,New Brunswick,"technical,community college",2175,"Female 35 to 44 technical,community college"
+35 to 44,Female,New Brunswick,"technical,community college",16305,"Female 35 to 44 technical,community college"
+35 to 44,Female,New Brunswick,university,1050,Female 35 to 44 university
+45 to 54,Male,New Brunswick,no degree,9530,Male 45 to 54 no degree
+45 to 54,Male,New Brunswick,high school,15320,Male 45 to 54 high school
+45 to 54,Male,New Brunswick,"technical,community college",7545,"Male 45 to 54 technical,community college"
+45 to 54,Male,New Brunswick,"technical,community college",11595,"Male 45 to 54 technical,community college"
+45 to 54,Male,New Brunswick,university,745,Male 45 to 54 university
+45 to 54,Female,New Brunswick,no degree,6335,Female 45 to 54 no degree
+45 to 54,Female,New Brunswick,high school,16960,Female 45 to 54 high school
+45 to 54,Female,New Brunswick,"technical,community college",3630,"Female 45 to 54 technical,community college"
+45 to 54,Female,New Brunswick,"technical,community college",17110,"Female 45 to 54 technical,community college"
+45 to 54,Female,New Brunswick,university,1720,Female 45 to 54 university
+55 to 64,Male,New Brunswick,no degree,13965,Male 55 to 64 no degree
+55 to 64,Male,New Brunswick,high school,15385,Male 55 to 64 high school
+55 to 64,Male,New Brunswick,"technical,community college",9575,"Male 55 to 64 technical,community college"
+55 to 64,Male,New Brunswick,"technical,community college",9805,"Male 55 to 64 technical,community college"
+55 to 64,Male,New Brunswick,university,865,Male 55 to 64 university
+55 to 64,Female,New Brunswick,no degree,11690,Female 55 to 64 no degree
+55 to 64,Female,New Brunswick,high school,20905,Female 55 to 64 high school
+55 to 64,Female,New Brunswick,"technical,community college",3555,"Female 55 to 64 technical,community college"
+55 to 64,Female,New Brunswick,"technical,community college",14640,"Female 55 to 64 technical,community college"
+55 to 64,Female,New Brunswick,university,1665,Female 55 to 64 university
+25 to 34,Male,Quebec,no degree,65410,Male 25 to 34 no degree
+25 to 34,Male,Quebec,high school,81515,Male 25 to 34 high school
+25 to 34,Male,Quebec,"technical,community college",128180,"Male 25 to 34 technical,community college"
+25 to 34,Male,Quebec,"technical,community college",83535,"Male 25 to 34 technical,community college"
+25 to 34,Male,Quebec,university,11980,Male 25 to 34 university
+25 to 34,Female,Quebec,no degree,40225,Female 25 to 34 no degree
+25 to 34,Female,Quebec,high school,64065,Female 25 to 34 high school
+25 to 34,Female,Quebec,"technical,community college",82535,"Female 25 to 34 technical,community college"
+25 to 34,Female,Quebec,"technical,community college",107900,"Female 25 to 34 technical,community college"
+25 to 34,Female,Quebec,university,19195,Female 25 to 34 university
+35 to 44,Male,Quebec,no degree,61410,Male 35 to 44 no degree
+35 to 44,Male,Quebec,high school,80575,Male 35 to 44 high school
+35 to 44,Male,Quebec,"technical,community college",125995,"Male 35 to 44 technical,community college"
+35 to 44,Male,Quebec,"technical,community college",97685,"Male 35 to 44 technical,community college"
+35 to 44,Male,Quebec,university,17525,Male 35 to 44 university
+35 to 44,Female,Quebec,no degree,42880,Female 35 to 44 no degree
+35 to 44,Female,Quebec,high school,66155,Female 35 to 44 high school
+35 to 44,Female,Quebec,"technical,community college",87735,"Female 35 to 44 technical,community college"
+35 to 44,Female,Quebec,"technical,community college",118485,"Female 35 to 44 technical,community college"
+35 to 44,Female,Quebec,university,25780,Female 35 to 44 university
+45 to 54,Male,Quebec,no degree,84280,Male 45 to 54 no degree
+45 to 54,Male,Quebec,high school,102335,Male 45 to 54 high school
+45 to 54,Male,Quebec,"technical,community college",132795,"Male 45 to 54 technical,community college"
+45 to 54,Male,Quebec,"technical,community college",99090,"Male 45 to 54 technical,community college"
+45 to 54,Male,Quebec,university,18615,Male 45 to 54 university
+45 to 54,Female,Quebec,no degree,67925,Female 45 to 54 no degree
+45 to 54,Female,Quebec,high school,108975,Female 45 to 54 high school
+45 to 54,Female,Quebec,"technical,community college",99095,"Female 45 to 54 technical,community college"
+45 to 54,Female,Quebec,"technical,community college",126495,"Female 45 to 54 technical,community college"
+45 to 54,Female,Quebec,university,26690,Female 45 to 54 university
+55 to 64,Male,Quebec,no degree,112780,Male 55 to 64 no degree
+55 to 64,Male,Quebec,high school,132210,Male 55 to 64 high school
+55 to 64,Male,Quebec,"technical,community college",126605,"Male 55 to 64 technical,community college"
+55 to 64,Male,Quebec,"technical,community college",86875,"Male 55 to 64 technical,community college"
+55 to 64,Male,Quebec,university,19410,Male 55 to 64 university
+55 to 64,Female,Quebec,no degree,105715,Female 55 to 64 no degree
+55 to 64,Female,Quebec,high school,173140,Female 55 to 64 high school
+55 to 64,Female,Quebec,"technical,community college",83655,"Female 55 to 64 technical,community college"
+55 to 64,Female,Quebec,"technical,community college",112365,"Female 55 to 64 technical,community college"
+55 to 64,Female,Quebec,university,27830,Female 55 to 64 university
+25 to 34,Male,Ontario,no degree,76690,Male 25 to 34 no degree
+25 to 34,Male,Ontario,high school,221190,Male 25 to 34 high school
+25 to 34,Male,Ontario,"technical,community college",57880,"Male 25 to 34 technical,community college"
+25 to 34,Male,Ontario,"technical,community college",194880,"Male 25 to 34 technical,community college"
+25 to 34,Male,Ontario,university,16090,Male 25 to 34 university
+25 to 34,Female,Ontario,no degree,55685,Female 25 to 34 no degree
+25 to 34,Female,Ontario,high school,155840,Female 25 to 34 high school
+25 to 34,Female,Ontario,"technical,community college",22550,"Female 25 to 34 technical,community college"
+25 to 34,Female,Ontario,"technical,community college",232805,"Female 25 to 34 technical,community college"
+25 to 34,Female,Ontario,university,19265,Female 25 to 34 university
+35 to 44,Male,Ontario,no degree,74185,Male 35 to 44 no degree
+35 to 44,Male,Ontario,high school,200580,Male 35 to 44 high school
+35 to 44,Male,Ontario,"technical,community college",63780,"Male 35 to 44 technical,community college"
+35 to 44,Male,Ontario,"technical,community college",187215,"Male 35 to 44 technical,community college"
+35 to 44,Male,Ontario,university,17645,Male 35 to 44 university
+35 to 44,Female,Ontario,no degree,61130,Female 35 to 44 no degree
+35 to 44,Female,Ontario,high school,167105,Female 35 to 44 high school
+35 to 44,Female,Ontario,"technical,community college",28665,"Female 35 to 44 technical,community college"
+35 to 44,Female,Ontario,"technical,community college",251610,"Female 35 to 44 technical,community college"
+35 to 44,Female,Ontario,university,24205,Female 35 to 44 university
+45 to 54,Male,Ontario,no degree,113985,Male 45 to 54 no degree
+45 to 54,Male,Ontario,high school,243260,Male 45 to 54 high school
+45 to 54,Male,Ontario,"technical,community college",93085,"Male 45 to 54 technical,community college"
+45 to 54,Male,Ontario,"technical,community college",207030,"Male 45 to 54 technical,community college"
+45 to 54,Male,Ontario,university,22225,Male 45 to 54 university
+45 to 54,Female,Ontario,no degree,96070,Female 45 to 54 no degree
+45 to 54,Female,Ontario,high school,255435,Female 45 to 54 high school
+45 to 54,Female,Ontario,"technical,community college",40690,"Female 45 to 54 technical,community college"
+45 to 54,Female,Ontario,"technical,community college",293700,"Female 45 to 54 technical,community college"
+45 to 54,Female,Ontario,university,28515,Female 45 to 54 university
+55 to 64,Male,Ontario,no degree,139910,Male 55 to 64 no degree
+55 to 64,Male,Ontario,high school,229995,Male 55 to 64 high school
+55 to 64,Male,Ontario,"technical,community college",101235,"Male 55 to 64 technical,community college"
+55 to 64,Male,Ontario,"technical,community college",173380,"Male 55 to 64 technical,community college"
+55 to 64,Male,Ontario,university,19975,Male 55 to 64 university
+55 to 64,Female,Ontario,no degree,135345,Female 55 to 64 no degree
+55 to 64,Female,Ontario,high school,295565,Female 55 to 64 high school
+55 to 64,Female,Ontario,"technical,community college",38510,"Female 55 to 64 technical,community college"
+55 to 64,Female,Ontario,"technical,community college",241910,"Female 55 to 64 technical,community college"
+55 to 64,Female,Ontario,university,23005,Female 55 to 64 university
+25 to 34,Male,Manitoba,no degree,12075,Male 25 to 34 no degree
+25 to 34,Male,Manitoba,high school,27250,Male 25 to 34 high school
+25 to 34,Male,Manitoba,"technical,community college",8525,"Male 25 to 34 technical,community college"
+25 to 34,Male,Manitoba,"technical,community college",13500,"Male 25 to 34 technical,community college"
+25 to 34,Male,Manitoba,university,1790,Male 25 to 34 university
+25 to 34,Female,Manitoba,no degree,8320,Female 25 to 34 no degree
+25 to 34,Female,Manitoba,high school,21710,Female 25 to 34 high school
+25 to 34,Female,Manitoba,"technical,community college",3375,"Female 25 to 34 technical,community college"
+25 to 34,Female,Manitoba,"technical,community college",18140,"Female 25 to 34 technical,community college"
+25 to 34,Female,Manitoba,university,2305,Female 25 to 34 university
+35 to 44,Male,Manitoba,no degree,10470,Male 35 to 44 no degree
+35 to 44,Male,Manitoba,high school,21890,Male 35 to 44 high school
+35 to 44,Male,Manitoba,"technical,community college",8820,"Male 35 to 44 technical,community college"
+35 to 44,Male,Manitoba,"technical,community college",14690,"Male 35 to 44 technical,community college"
+35 to 44,Male,Manitoba,university,2210,Male 35 to 44 university
+35 to 44,Female,Manitoba,no degree,7650,Female 35 to 44 no degree
+35 to 44,Female,Manitoba,high school,18705,Female 35 to 44 high school
+35 to 44,Female,Manitoba,"technical,community college",3740,"Female 35 to 44 technical,community college"
+35 to 44,Female,Manitoba,"technical,community college",20590,"Female 35 to 44 technical,community college"
+35 to 44,Female,Manitoba,university,2605,Female 35 to 44 university
+45 to 54,Male,Manitoba,no degree,14390,Male 45 to 54 no degree
+45 to 54,Male,Manitoba,high school,22350,Male 45 to 54 high school
+45 to 54,Male,Manitoba,"technical,community college",10070,"Male 45 to 54 technical,community college"
+45 to 54,Male,Manitoba,"technical,community college",15585,"Male 45 to 54 technical,community college"
+45 to 54,Male,Manitoba,university,2605,Male 45 to 54 university
+45 to 54,Female,Manitoba,no degree,10250,Female 45 to 54 no degree
+45 to 54,Female,Manitoba,high school,23150,Female 45 to 54 high school
+45 to 54,Female,Manitoba,"technical,community college",4580,"Female 45 to 54 technical,community college"
+45 to 54,Female,Manitoba,"technical,community college",22060,"Female 45 to 54 technical,community college"
+45 to 54,Female,Manitoba,university,3690,Female 45 to 54 university
+55 to 64,Male,Manitoba,no degree,17765,Male 55 to 64 no degree
+55 to 64,Male,Manitoba,high school,21510,Male 55 to 64 high school
+55 to 64,Male,Manitoba,"technical,community college",10770,"Male 55 to 64 technical,community college"
+55 to 64,Male,Manitoba,"technical,community college",13670,"Male 55 to 64 technical,community college"
+55 to 64,Male,Manitoba,university,2390,Male 55 to 64 university
+55 to 64,Female,Manitoba,no degree,13385,Female 55 to 64 no degree
+55 to 64,Female,Manitoba,high school,25760,Female 55 to 64 high school
+55 to 64,Female,Manitoba,"technical,community college",3915,"Female 55 to 64 technical,community college"
+55 to 64,Female,Manitoba,"technical,community college",19700,"Female 55 to 64 technical,community college"
+55 to 64,Female,Manitoba,university,3615,Female 55 to 64 university
+25 to 34,Male,Saskatchewan,no degree,8870,Male 25 to 34 no degree
+25 to 34,Male,Saskatchewan,high school,25725,Male 25 to 34 high school
+25 to 34,Male,Saskatchewan,"technical,community college",12435,"Male 25 to 34 technical,community college"
+25 to 34,Male,Saskatchewan,"technical,community college",10555,"Male 25 to 34 technical,community college"
+25 to 34,Male,Saskatchewan,university,1530,Male 25 to 34 university
+25 to 34,Female,Saskatchewan,no degree,6115,Female 25 to 34 no degree
+25 to 34,Female,Saskatchewan,high school,19600,Female 25 to 34 high school
+25 to 34,Female,Saskatchewan,"technical,community college",4155,"Female 25 to 34 technical,community college"
+25 to 34,Female,Saskatchewan,"technical,community college",17285,"Female 25 to 34 technical,community college"
+25 to 34,Female,Saskatchewan,university,2230,Female 25 to 34 university
+35 to 44,Male,Saskatchewan,no degree,7700,Male 35 to 44 no degree
+35 to 44,Male,Saskatchewan,high school,20640,Male 35 to 44 high school
+35 to 44,Male,Saskatchewan,"technical,community college",11355,"Male 35 to 44 technical,community college"
+35 to 44,Male,Saskatchewan,"technical,community college",10815,"Male 35 to 44 technical,community college"
+35 to 44,Male,Saskatchewan,university,1735,Male 35 to 44 university
+35 to 44,Female,Saskatchewan,no degree,4905,Female 35 to 44 no degree
+35 to 44,Female,Saskatchewan,high school,16445,Female 35 to 44 high school
+35 to 44,Female,Saskatchewan,"technical,community college",4330,"Female 35 to 44 technical,community college"
+35 to 44,Female,Saskatchewan,"technical,community college",18275,"Female 35 to 44 technical,community college"
+35 to 44,Female,Saskatchewan,university,2570,Female 35 to 44 university
+45 to 54,Male,Saskatchewan,no degree,11155,Male 45 to 54 no degree
+45 to 54,Male,Saskatchewan,high school,20680,Male 45 to 54 high school
+45 to 54,Male,Saskatchewan,"technical,community college",11685,"Male 45 to 54 technical,community college"
+45 to 54,Male,Saskatchewan,"technical,community college",10335,"Male 45 to 54 technical,community college"
+45 to 54,Male,Saskatchewan,university,2020,Male 45 to 54 university
+45 to 54,Female,Saskatchewan,no degree,7125,Female 45 to 54 no degree
+45 to 54,Female,Saskatchewan,high school,18940,Female 45 to 54 high school
+45 to 54,Female,Saskatchewan,"technical,community college",5110,"Female 45 to 54 technical,community college"
+45 to 54,Female,Saskatchewan,"technical,community college",20120,"Female 45 to 54 technical,community college"
+45 to 54,Female,Saskatchewan,university,3265,Female 45 to 54 university
+55 to 64,Male,Saskatchewan,no degree,14320,Male 55 to 64 no degree
+55 to 64,Male,Saskatchewan,high school,21480,Male 55 to 64 high school
+55 to 64,Male,Saskatchewan,"technical,community college",13410,"Male 55 to 64 technical,community college"
+55 to 64,Male,Saskatchewan,"technical,community college",9380,"Male 55 to 64 technical,community college"
+55 to 64,Male,Saskatchewan,university,2490,Male 55 to 64 university
+55 to 64,Female,Saskatchewan,no degree,9010,Female 55 to 64 no degree
+55 to 64,Female,Saskatchewan,high school,24525,Female 55 to 64 high school
+55 to 64,Female,Saskatchewan,"technical,community college",4480,"Female 55 to 64 technical,community college"
+55 to 64,Female,Saskatchewan,"technical,community college",18320,"Female 55 to 64 technical,community college"
+55 to 64,Female,Saskatchewan,university,3535,Female 55 to 64 university
+25 to 34,Male,Alberta,no degree,33665,Male 25 to 34 no degree
+25 to 34,Male,Alberta,high school,89560,Male 25 to 34 high school
+25 to 34,Male,Alberta,"technical,community college",49935,"Male 25 to 34 technical,community college"
+25 to 34,Male,Alberta,"technical,community college",51715,"Male 25 to 34 technical,community college"
+25 to 34,Male,Alberta,university,7680,Male 25 to 34 university
+25 to 34,Female,Alberta,no degree,25605,Female 25 to 34 no degree
+25 to 34,Female,Alberta,high school,72620,Female 25 to 34 high school
+25 to 34,Female,Alberta,"technical,community college",12595,"Female 25 to 34 technical,community college"
+25 to 34,Female,Alberta,"technical,community college",74170,"Female 25 to 34 technical,community college"
+25 to 34,Female,Alberta,university,12330,Female 25 to 34 university
+35 to 44,Male,Alberta,no degree,29680,Male 35 to 44 no degree
+35 to 44,Male,Alberta,high school,69665,Male 35 to 44 high school
+35 to 44,Male,Alberta,"technical,community college",45595,"Male 35 to 44 technical,community college"
+35 to 44,Male,Alberta,"technical,community college",55210,"Male 35 to 44 technical,community college"
+35 to 44,Male,Alberta,university,8485,Male 35 to 44 university
+35 to 44,Female,Alberta,no degree,23235,Female 35 to 44 no degree
+35 to 44,Female,Alberta,high school,60700,Female 35 to 44 high school
+35 to 44,Female,Alberta,"technical,community college",11895,"Female 35 to 44 technical,community college"
+35 to 44,Female,Alberta,"technical,community college",76245,"Female 35 to 44 technical,community college"
+35 to 44,Female,Alberta,university,11490,Female 35 to 44 university
+45 to 54,Male,Alberta,no degree,34825,Male 45 to 54 no degree
+45 to 54,Male,Alberta,high school,65395,Male 45 to 54 high school
+45 to 54,Male,Alberta,"technical,community college",45270,"Male 45 to 54 technical,community college"
+45 to 54,Male,Alberta,"technical,community college",52835,"Male 45 to 54 technical,community college"
+45 to 54,Male,Alberta,university,7135,Male 45 to 54 university
+45 to 54,Female,Alberta,no degree,27260,Female 45 to 54 no degree
+45 to 54,Female,Alberta,high school,72080,Female 45 to 54 high school
+45 to 54,Female,Alberta,"technical,community college",13335,"Female 45 to 54 technical,community college"
+45 to 54,Female,Alberta,"technical,community college",78155,"Female 45 to 54 technical,community college"
+45 to 54,Female,Alberta,university,11200,Female 45 to 54 university
+55 to 64,Male,Alberta,no degree,37910,Male 55 to 64 no degree
+55 to 64,Male,Alberta,high school,58670,Male 55 to 64 high school
+55 to 64,Male,Alberta,"technical,community college",48385,"Male 55 to 64 technical,community college"
+55 to 64,Male,Alberta,"technical,community college",43595,"Male 55 to 64 technical,community college"
+55 to 64,Male,Alberta,university,6010,Male 55 to 64 university
+55 to 64,Female,Alberta,no degree,32565,Female 55 to 64 no degree
+55 to 64,Female,Alberta,high school,80745,Female 55 to 64 high school
+55 to 64,Female,Alberta,"technical,community college",11210,"Female 55 to 64 technical,community college"
+55 to 64,Female,Alberta,"technical,community college",64455,"Female 55 to 64 technical,community college"
+55 to 64,Female,Alberta,university,8985,Female 55 to 64 university
+25 to 34,Male,British Columbia,no degree,24480,Male 25 to 34 no degree
+25 to 34,Male,British Columbia,high school,90195,Male 25 to 34 high school
+25 to 34,Male,British Columbia,"technical,community college",38685,"Male 25 to 34 technical,community college"
+25 to 34,Male,British Columbia,"technical,community college",46565,"Male 25 to 34 technical,community college"
+25 to 34,Male,British Columbia,university,11030,Male 25 to 34 university
+25 to 34,Female,British Columbia,no degree,17275,Female 25 to 34 no degree
+25 to 34,Female,British Columbia,high school,69830,Female 25 to 34 high school
+25 to 34,Female,British Columbia,"technical,community college",13030,"Female 25 to 34 technical,community college"
+25 to 34,Female,British Columbia,"technical,community college",64400,"Female 25 to 34 technical,community college"
+25 to 34,Female,British Columbia,university,15460,Female 25 to 34 university
+35 to 44,Male,British Columbia,no degree,25250,Male 35 to 44 no degree
+35 to 44,Male,British Columbia,high school,73520,Male 35 to 44 high school
+35 to 44,Male,British Columbia,"technical,community college",35630,"Male 35 to 44 technical,community college"
+35 to 44,Male,British Columbia,"technical,community college",50950,"Male 35 to 44 technical,community college"
+35 to 44,Male,British Columbia,university,9815,Male 35 to 44 university
+35 to 44,Female,British Columbia,no degree,19255,Female 35 to 44 no degree
+35 to 44,Female,British Columbia,high school,63755,Female 35 to 44 high school
+35 to 44,Female,British Columbia,"technical,community college",12830,"Female 35 to 44 technical,community college"
+35 to 44,Female,British Columbia,"technical,community college",74885,"Female 35 to 44 technical,community college"
+35 to 44,Female,British Columbia,university,14920,Female 35 to 44 university
+45 to 54,Male,British Columbia,no degree,37380,Male 45 to 54 no degree
+45 to 54,Male,British Columbia,high school,83170,Male 45 to 54 high school
+45 to 54,Male,British Columbia,"technical,community college",44735,"Male 45 to 54 technical,community college"
+45 to 54,Male,British Columbia,"technical,community college",57485,"Male 45 to 54 technical,community college"
+45 to 54,Male,British Columbia,university,9785,Male 45 to 54 university
+45 to 54,Female,British Columbia,no degree,30035,Female 45 to 54 no degree
+45 to 54,Female,British Columbia,high school,92595,Female 45 to 54 high school
+45 to 54,Female,British Columbia,"technical,community college",16975,"Female 45 to 54 technical,community college"
+45 to 54,Female,British Columbia,"technical,community college",91830,"Female 45 to 54 technical,community college"
+45 to 54,Female,British Columbia,university,16400,Female 45 to 54 university
+55 to 64,Male,British Columbia,no degree,47300,Male 55 to 64 no degree
+55 to 64,Male,British Columbia,high school,83950,Male 55 to 64 high school
+55 to 64,Male,British Columbia,"technical,community college",53235,"Male 55 to 64 technical,community college"
+55 to 64,Male,British Columbia,"technical,community college",55885,"Male 55 to 64 technical,community college"
+55 to 64,Male,British Columbia,university,8585,Male 55 to 64 university
+55 to 64,Female,British Columbia,no degree,43025,Female 55 to 64 no degree
+55 to 64,Female,British Columbia,high school,113995,Female 55 to 64 high school
+55 to 64,Female,British Columbia,"technical,community college",16325,"Female 55 to 64 technical,community college"
+55 to 64,Female,British Columbia,"technical,community college",86810,"Female 55 to 64 technical,community college"
+55 to 64,Female,British Columbia,university,13710,Female 55 to 64 university
+25 to 34,Male,Yukon,no degree,315,Male 25 to 34 no degree
+25 to 34,Male,Yukon,high school,640,Male 25 to 34 high school
+25 to 34,Male,Yukon,"technical,community college",420,"Male 25 to 34 technical,community college"
+25 to 34,Male,Yukon,"technical,community college",490,"Male 25 to 34 technical,community college"
+25 to 34,Male,Yukon,university,55,Male 25 to 34 university
+25 to 34,Female,Yukon,no degree,195,Female 25 to 34 no degree
+25 to 34,Female,Yukon,high school,650,Female 25 to 34 high school
+25 to 34,Female,Yukon,"technical,community college",110,"Female 25 to 34 technical,community college"
+25 to 34,Female,Yukon,"technical,community college",675,"Female 25 to 34 technical,community college"
+25 to 34,Female,Yukon,university,80,Female 25 to 34 university
+35 to 44,Male,Yukon,no degree,215,Male 35 to 44 no degree
+35 to 44,Male,Yukon,high school,450,Male 35 to 44 high school
+35 to 44,Male,Yukon,"technical,community college",360,"Male 35 to 44 technical,community college"
+35 to 44,Male,Yukon,"technical,community college",490,"Male 35 to 44 technical,community college"
+35 to 44,Male,Yukon,university,80,Male 35 to 44 university
+35 to 44,Female,Yukon,no degree,150,Female 35 to 44 no degree
+35 to 44,Female,Yukon,high school,415,Female 35 to 44 high school
+35 to 44,Female,Yukon,"technical,community college",135,"Female 35 to 44 technical,community college"
+35 to 44,Female,Yukon,"technical,community college",765,"Female 35 to 44 technical,community college"
+35 to 44,Female,Yukon,university,105,Female 35 to 44 university
+45 to 54,Male,Yukon,no degree,415,Male 45 to 54 no degree
+45 to 54,Male,Yukon,high school,565,Male 45 to 54 high school
+45 to 54,Male,Yukon,"technical,community college",445,"Male 45 to 54 technical,community college"
+45 to 54,Male,Yukon,"technical,community college",470,"Male 45 to 54 technical,community college"
+45 to 54,Male,Yukon,university,65,Male 45 to 54 university
+45 to 54,Female,Yukon,no degree,230,Female 45 to 54 no degree
+45 to 54,Female,Yukon,high school,570,Female 45 to 54 high school
+45 to 54,Female,Yukon,"technical,community college",135,"Female 45 to 54 technical,community college"
+45 to 54,Female,Yukon,"technical,community college",825,"Female 45 to 54 technical,community college"
+45 to 54,Female,Yukon,university,105,Female 45 to 54 university
+55 to 64,Male,Yukon,no degree,450,Male 55 to 64 no degree
+55 to 64,Male,Yukon,high school,415,Male 55 to 64 high school
+55 to 64,Male,Yukon,"technical,community college",655,"Male 55 to 64 technical,community college"
+55 to 64,Male,Yukon,"technical,community college",570,"Male 55 to 64 technical,community college"
+55 to 64,Male,Yukon,university,55,Male 55 to 64 university
+55 to 64,Female,Yukon,no degree,285,Female 55 to 64 no degree
+55 to 64,Female,Yukon,high school,705,Female 55 to 64 high school
+55 to 64,Female,Yukon,"technical,community college",135,"Female 55 to 64 technical,community college"
+55 to 64,Female,Yukon,"technical,community college",690,"Female 55 to 64 technical,community college"
+55 to 64,Female,Yukon,university,125,Female 55 to 64 university
+25 to 34,Male,Northwest Territories,no degree,770,Male 25 to 34 no degree
+25 to 34,Male,Northwest Territories,high school,810,Male 25 to 34 high school
+25 to 34,Male,Northwest Territories,"technical,community college",470,"Male 25 to 34 technical,community college"
+25 to 34,Male,Northwest Territories,"technical,community college",610,"Male 25 to 34 technical,community college"
+25 to 34,Male,Northwest Territories,university,70,Male 25 to 34 university
+25 to 34,Female,Northwest Territories,no degree,565,Female 25 to 34 no degree
+25 to 34,Female,Northwest Territories,high school,790,Female 25 to 34 high school
+25 to 34,Female,Northwest Territories,"technical,community college",140,"Female 25 to 34 technical,community college"
+25 to 34,Female,Northwest Territories,"technical,community college",660,"Female 25 to 34 technical,community college"
+25 to 34,Female,Northwest Territories,university,65,Female 25 to 34 university
+35 to 44,Male,Northwest Territories,no degree,605,Male 35 to 44 no degree
+35 to 44,Male,Northwest Territories,high school,575,Male 35 to 44 high school
+35 to 44,Male,Northwest Territories,"technical,community college",480,"Male 35 to 44 technical,community college"
+35 to 44,Male,Northwest Territories,"technical,community college",530,"Male 35 to 44 technical,community college"
+35 to 44,Male,Northwest Territories,university,55,Male 35 to 44 university
+35 to 44,Female,Northwest Territories,no degree,490,Female 35 to 44 no degree
+35 to 44,Female,Northwest Territories,high school,460,Female 35 to 44 high school
+35 to 44,Female,Northwest Territories,"technical,community college",135,"Female 35 to 44 technical,community college"
+35 to 44,Female,Northwest Territories,"technical,community college",740,"Female 35 to 44 technical,community college"
+35 to 44,Female,Northwest Territories,university,95,Female 35 to 44 university
+45 to 54,Male,Northwest Territories,no degree,740,Male 45 to 54 no degree
+45 to 54,Male,Northwest Territories,high school,520,Male 45 to 54 high school
+45 to 54,Male,Northwest Territories,"technical,community college",570,"Male 45 to 54 technical,community college"
+45 to 54,Male,Northwest Territories,"technical,community college",645,"Male 45 to 54 technical,community college"
+45 to 54,Male,Northwest Territories,university,75,Male 45 to 54 university
+45 to 54,Female,Northwest Territories,no degree,640,Female 45 to 54 no degree
+45 to 54,Female,Northwest Territories,high school,545,Female 45 to 54 high school
+45 to 54,Female,Northwest Territories,"technical,community college",180,"Female 45 to 54 technical,community college"
+45 to 54,Female,Northwest Territories,"technical,community college",855,"Female 45 to 54 technical,community college"
+45 to 54,Female,Northwest Territories,university,110,Female 45 to 54 university
+55 to 64,Male,Northwest Territories,no degree,545,Male 55 to 64 no degree
+55 to 64,Male,Northwest Territories,high school,410,Male 55 to 64 high school
+55 to 64,Male,Northwest Territories,"technical,community college",530,"Male 55 to 64 technical,community college"
+55 to 64,Male,Northwest Territories,"technical,community college",465,"Male 55 to 64 technical,community college"
+55 to 64,Male,Northwest Territories,university,70,Male 55 to 64 university
+55 to 64,Female,Northwest Territories,no degree,500,Female 55 to 64 no degree
+55 to 64,Female,Northwest Territories,high school,455,Female 55 to 64 high school
+55 to 64,Female,Northwest Territories,"technical,community college",120,"Female 55 to 64 technical,community college"
+55 to 64,Female,Northwest Territories,"technical,community college",630,"Female 55 to 64 technical,community college"
+55 to 64,Female,Northwest Territories,university,120,Female 55 to 64 university
+25 to 34,Male,Nunavut,no degree,1340,Male 25 to 34 no degree
+25 to 34,Male,Nunavut,high school,590,Male 25 to 34 high school
+25 to 34,Male,Nunavut,"technical,community college",315,"Male 25 to 34 technical,community college"
+25 to 34,Male,Nunavut,"technical,community college",375,"Male 25 to 34 technical,community college"
+25 to 34,Male,Nunavut,university,15,Male 25 to 34 university
+25 to 34,Female,Nunavut,no degree,1230,Female 25 to 34 no degree
+25 to 34,Female,Nunavut,high school,580,Female 25 to 34 high school
+25 to 34,Female,Nunavut,"technical,community college",90,"Female 25 to 34 technical,community college"
+25 to 34,Female,Nunavut,"technical,community college",610,"Female 25 to 34 technical,community college"
+25 to 34,Female,Nunavut,university,25,Female 25 to 34 university
+35 to 44,Male,Nunavut,no degree,865,Male 35 to 44 no degree
+35 to 44,Male,Nunavut,high school,310,Male 35 to 44 high school
+35 to 44,Male,Nunavut,"technical,community college",350,"Male 35 to 44 technical,community college"
+35 to 44,Male,Nunavut,"technical,community college",375,"Male 35 to 44 technical,community college"
+35 to 44,Male,Nunavut,university,20,Male 35 to 44 university
+35 to 44,Female,Nunavut,no degree,815,Female 35 to 44 no degree
+35 to 44,Female,Nunavut,high school,315,Female 35 to 44 high school
+35 to 44,Female,Nunavut,"technical,community college",95,"Female 35 to 44 technical,community college"
+35 to 44,Female,Nunavut,"technical,community college",480,"Female 35 to 44 technical,community college"
+35 to 44,Female,Nunavut,university,30,Female 35 to 44 university
+45 to 54,Male,Nunavut,no degree,805,Male 45 to 54 no degree
+45 to 54,Male,Nunavut,high school,220,Male 45 to 54 high school
+45 to 54,Male,Nunavut,"technical,community college",345,"Male 45 to 54 technical,community college"
+45 to 54,Male,Nunavut,"technical,community college",360,"Male 45 to 54 technical,community college"
+45 to 54,Male,Nunavut,university,30,Male 45 to 54 university
+45 to 54,Female,Nunavut,no degree,820,Female 45 to 54 no degree
+45 to 54,Female,Nunavut,high school,160,Female 45 to 54 high school
+45 to 54,Female,Nunavut,"technical,community college",100,"Female 45 to 54 technical,community college"
+45 to 54,Female,Nunavut,"technical,community college",505,"Female 45 to 54 technical,community college"
+45 to 54,Female,Nunavut,university,20,Female 45 to 54 university
+55 to 64,Male,Nunavut,no degree,420,Male 55 to 64 no degree
+55 to 64,Male,Nunavut,high school,145,Male 55 to 64 high school
+55 to 64,Male,Nunavut,"technical,community college",240,"Male 55 to 64 technical,community college"
+55 to 64,Male,Nunavut,"technical,community college",235,"Male 55 to 64 technical,community college"
+55 to 64,Male,Nunavut,university,25,Male 55 to 64 university
+55 to 64,Female,Nunavut,no degree,445,Female 55 to 64 no degree
+55 to 64,Female,Nunavut,high school,90,Female 55 to 64 high school
+55 to 64,Female,Nunavut,"technical,community college",55,"Female 55 to 64 technical,community college"
+55 to 64,Female,Nunavut,"technical,community college",245,"Female 55 to 64 technical,community college"
+55 to 64,Female,Nunavut,university,40,Female 55 to 64 university
